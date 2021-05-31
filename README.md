@@ -8,3 +8,6 @@ html_process.php
   
 upload_kit.php
   Funcionalidades encargadas del proceso de subir un mail, aplicando los metodos de la clase anteriormente citada.
+
+M12Projecte.docx
+  Proyecto teorico sobre la creacion de un proyecto.
